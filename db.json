@@ -1,0 +1,41 @@
+{
+  "form": [
+    {
+      "id": 1
+    },
+    {
+      "cname": "wqrwer",
+      "years": 234,
+      "minsalary": 4234,
+      "maxsalary": 234,
+      "rname": "234",
+      "id": 2
+    },
+    {
+      "firstName": "wfafe",
+      "lastName": "qweqweqwe",
+      "middleName": "qweqwe",
+      "Mob": 2342,
+      "address": "sdfs",
+      "cname": "24234",
+      "years": 234,
+      "minsalary": 241424,
+      "maxsalary": 4234,
+      "rname": "234223",
+      "id": 3
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "middleName": "test",
+      "Mob": 122,
+      "address": "test",
+      "cname": "test",
+      "years": 1,
+      "minsalary": 1,
+      "maxsalary": 2,
+      "rname": "test",
+      "id": 4
+    }
+  ]
+}
